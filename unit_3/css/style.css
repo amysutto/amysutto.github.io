@@ -1,6 +1,3 @@
-@import url(<link href="https://fonts.googleapis.com/css?family=Mirza" rel="stylesheet">);
-@import url(<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">);
-
 *{
 	padding: 0;
 	margin: 0;
@@ -9,15 +6,14 @@
 body {
 	text-align: center;
 	color: #a3a3a3;
-	font-family:'Open Sans Condensed', sans-serif;
-	font-size: 1em;
-	line-height: 1.5;
+	font-family: Helvetica;
+	line-height: 1.3;
 }
 hr {
-	width: 2em;
+	width: 200px;
 }
 p{
-	font-size: 1em;
+	font-size: 22px;
 }
 ul {
 	text-align: center;
@@ -25,19 +21,12 @@ ul {
 }
 p {
 	text-align:center;
-	margin-bottom: 2em;
+	margin-bottom: 20px;
 }
 ul {list-style:none;
-	font-family: font-family: 'Open Sans Condensed', sans-serif;
-
-}
-h1 {font-family: 'Mirza', cursive;
 }
 h2 {
 	font-style:italic;
-	font-family:'Mirza', cursive;
-	font-size: 2.25em;
-
 }
 a {color:inherit;
    text-decoration: none;
@@ -47,7 +36,4 @@ a {color:inherit;
  	font-style: italic;
  }
  h3,h4 {margin-bottom: 20px;
- 		font-family:'Mirza', cursive;
- 		font-size: 3em;
-
  }
